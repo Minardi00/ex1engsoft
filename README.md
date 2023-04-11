@@ -4,14 +4,21 @@ Este é um programa simples que solicita que o usuário digite um caractere e ve
 
 # Como Usar
 
-Abra um terminal ou prompt de comando.
-Navegue até o diretório onde o arquivo Python está localizado. (Exemplo: C:\Users\usuario\Downloads)
-Digite python verifletra.py para executar o programa.
-Digite um caractere e pressione Enter.
-O programa exibirá se o caractere é uma vogal ou uma consoante.
-O programa perguntará se você deseja verificar outro caractere.
-Se você digitar 's' ou 'S', o programa solicitará que você digite outro caractere.
-Se você digitar 'n' ou algum caractere diferente, o programa será encerrado.
+1. Abra um terminal ou prompt de comando.
+
+2. Navegue até o diretório onde o arquivo Python está localizado. (Exemplo: C:\Users\usuario\Downloads)
+
+3. Digite python verifletra.py para executar o programa.
+
+4. Digite um caractere e pressione Enter.
+
+5. O programa exibirá se o caractere é uma vogal ou uma consoante.
+
+6. O programa perguntará se você deseja verificar outro caractere.
+
+7. Se você digitar 's' ou 'S', o programa solicitará que você digite outro caractere.
+
+8. Se você digitar 'n' ou algum caractere diferente, o programa será encerrado.
 
 # Como Funciona
 
